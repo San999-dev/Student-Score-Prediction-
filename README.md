@@ -58,7 +58,9 @@ The dataset contains the following sample columns:
    git clone https://github.com/San999-dev/Student-Score-Prediction.git
    cd student-score-prediction
 
-   📄 License
+
+  📄 License
+   
 
 This project is licensed under the MIT License.
 
